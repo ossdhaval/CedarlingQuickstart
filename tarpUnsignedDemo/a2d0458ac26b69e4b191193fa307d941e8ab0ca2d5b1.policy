@@ -1,4 +1,4 @@
-@id("allow_supreme_ruler")
+@id("allow_teacher")
 permit(
   principal is Jans::User,
   action,
@@ -6,5 +6,5 @@ permit(
 )
 when {
   principal has role &&
-  principal.role.contains("SupremeRuler")
+  principal.role.contains("Teacher")
 };
