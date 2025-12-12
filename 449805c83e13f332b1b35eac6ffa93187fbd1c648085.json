@@ -18,7 +18,7 @@
             },
             "trusted_issuers": {
                 "ba49b559f93fc7c80b3729d47edd7c37d034803ac93c": {
-                    "name": "testIdp",
+                    "name": "Jans",
                     "description": "testIdp",
                     "openid_configuration_endpoint": "https://test-jans.gluu.info/.well-known/openid-configuration",
                     "token_metadata": {
