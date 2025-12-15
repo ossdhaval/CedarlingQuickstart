@@ -1,6 +1,6 @@
-@id("Describe the policy here")
+@id("Allow admin to perform POST")
 permit (
-  principal,
+  principal in Jans::Role::"admin",
   action,
   resource
 );
