@@ -1,4 +1,4 @@
-@id("Allow admin to perform POST")
+@id("Allow admin to perform all actions")
 permit (
   principal in Jans::Role::"admin",
   action,
