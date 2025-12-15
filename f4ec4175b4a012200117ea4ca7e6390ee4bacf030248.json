@@ -6,9 +6,9 @@
             "description": "Policy store to control access to the config API MCP server",
             "policies": {
                 "a8dd5eecfc306c0c663760ca6cdc1724dfc7bbd7d228": {
-                    "description": "Allow admin to perform POST",
+                    "description": "Allow admin to perform all actions",
                     "creation_date": "2025-12-15T17:50:07.597152",
-                    "policy_content": "QGlkKCJBbGxvdyBhZG1pbiB0byBwZXJmb3JtIFBPU1QiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                    "policy_content": "QGlkKCJBbGxvdyBhZG1pbiB0byBwZXJmb3JtIGFsbCBhY3Rpb25zIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFkbWluIiwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
                 }
             },
             "trusted_issuers": {},
