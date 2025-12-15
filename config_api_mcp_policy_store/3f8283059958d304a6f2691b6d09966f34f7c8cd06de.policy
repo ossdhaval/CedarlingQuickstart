@@ -1,6 +1,0 @@
-@id("Allow ops to perform only GET")
-permit (
-  principal in Jans::Role::"ops",
-  action,
-  resource
-);
