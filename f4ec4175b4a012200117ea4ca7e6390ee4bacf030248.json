@@ -14,6 +14,11 @@
                     "description": "Allow ops to perform only GET",
                     "creation_date": "2025-12-15T17:55:14.883856",
                     "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                },
+                "3f8283059958d304a6f2691b6d09966f34f7c8cd06de": {
+                    "description": "Allow ops to perform only GET",
+                    "creation_date": "2025-12-15T17:55:25.617875",
+                    "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
