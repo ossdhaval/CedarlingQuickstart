@@ -9,6 +9,11 @@
                     "description": "Allow admin to perform all actions",
                     "creation_date": "2025-12-15T17:50:07.597152",
                     "policy_content": "QGlkKCJBbGxvdyBhZG1pbiB0byBwZXJmb3JtIGFsbCBhY3Rpb25zIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFkbWluIiwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                },
+                "c1dc6a3c9699aae0dcfb3b9a503040ee0e436a0a1657": {
+                    "description": "Allow ops to perform only GET",
+                    "creation_date": "2025-12-15T17:55:14.883856",
+                    "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
