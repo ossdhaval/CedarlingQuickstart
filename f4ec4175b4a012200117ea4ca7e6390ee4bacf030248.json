@@ -16,9 +16,9 @@
                     "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
                 },
                 "3369eafec3490c29717ed8e0ab1380d62a5c66484efe": {
-                    "description": "Describe the policy here",
+                    "description": "Teacher cant update",
                     "creation_date": "2025-12-16T11:58:36.668205",
-                    "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpmb3JiaWQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhZG1pbiIsCiAgICBhY3Rpb24gaW4gWwogICAgICAgIEphbnM6OkFjdGlvbjo6IlJlYWQiCiAgICBdLAogICAgcmVzb3VyY2UKKTsKCg=="
+                    "policy_content": "QGlkKCJUZWFjaGVyIGNhbid0IHVwZGF0ZSIpCmZvcmJpZCAoCiAgICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFkbWluIiwKICAgIGFjdGlvbiBpbiBbCiAgICAgICAgSmFuczo6QWN0aW9uOjoiUmVhZCIKICAgIF0sCiAgICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
