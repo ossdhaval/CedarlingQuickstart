@@ -1,0 +1,9 @@
+@id("Describe the policy here")
+forbid (
+    principal in Jans::Role::"admin",
+    action in [
+        Jans::Action::"Read"
+    ],
+    resource
+);
+
