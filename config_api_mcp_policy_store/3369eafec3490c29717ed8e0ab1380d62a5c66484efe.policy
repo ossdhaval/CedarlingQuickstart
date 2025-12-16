@@ -1,4 +1,4 @@
-@id("Describe the policy here")
+@id("Teacher can't update")
 forbid (
     principal in Jans::Role::"admin",
     action in [
@@ -6,4 +6,3 @@ forbid (
     ],
     resource
 );
-
