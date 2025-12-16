@@ -1,8 +1,0 @@
-@id("Teacher can't update")
-forbid (
-    principal in Jans::Role::"admin",
-    action in [
-        Jans::Action::"Read"
-    ],
-    resource
-);
