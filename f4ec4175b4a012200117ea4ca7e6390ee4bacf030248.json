@@ -14,11 +14,6 @@
                     "description": "Allow ops to perform only GET",
                     "creation_date": "2025-12-15T17:55:14.883856",
                     "policy_content": "QGlkKCJBbGxvdyBvcHMgdG8gcGVyZm9ybSBvbmx5IEdFVCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJvcHMiLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
-                },
-                "3369eafec3490c29717ed8e0ab1380d62a5c66484efe": {
-                    "description": "Teacher cant update",
-                    "creation_date": "2025-12-16T11:58:36.668205",
-                    "policy_content": "QGlkKCJUZWFjaGVyIGNhbid0IHVwZGF0ZSIpCmZvcmJpZCAoCiAgICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFkbWluIiwKICAgIGFjdGlvbiBpbiBbCiAgICAgICAgSmFuczo6QWN0aW9uOjoiUmVhZCIKICAgIF0sCiAgICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {},
